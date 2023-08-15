@@ -1,0 +1,15 @@
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\bin\Debug\net7.0\DataBaseInMemory.deps.json
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\bin\Debug\net7.0\DataBaseInMemory.dll
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\bin\Debug\net7.0\DataBaseInMemory.pdb
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\bin\Debug\net7.0\Domain.dll
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\bin\Debug\net7.0\Domain.pdb
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\obj\Debug\net7.0\DataBaseInMemory.csproj.AssemblyReference.cache
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\obj\Debug\net7.0\DataBaseInMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\obj\Debug\net7.0\DataBaseInMemory.AssemblyInfoInputs.cache
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\obj\Debug\net7.0\DataBaseInMemory.AssemblyInfo.cs
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\obj\Debug\net7.0\DataBaseInMemory.csproj.CoreCompileInputs.cache
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\obj\Debug\net7.0\DataBaseInMemory.csproj.CopyComplete
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\obj\Debug\net7.0\DataBaseInMemory.dll
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\obj\Debug\net7.0\refint\DataBaseInMemory.dll
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\obj\Debug\net7.0\DataBaseInMemory.pdb
+C:\Cursos\Arquitetura-Hexagonal\DataBaseInMemory\obj\Debug\net7.0\ref\DataBaseInMemory.dll

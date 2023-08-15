@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLQp/KhhILyzHL3DoTD7gl8O777IQnUfq3dJUPmFz/u9QyFPFHP84wd9e8dOxyOWyEyUNKfjFpVpQwEtkyM/Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos\\Arquitetura-Hexagonal\\DataBaseInMemory\\DataBaseInMemory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateus.miranda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
